@@ -1,0 +1,82 @@
+
+
+.full-screen {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.navbar-brand{
+  padding-top: 4px;
+}
+.padding{
+  margin-top: 10%;
+}
+
+.bg-image{
+  position: relative;
+}
+
+.logout{
+  float: right;
+}
+
+.bg-image img{
+  width: 100%;
+  position: relative;
+}
+
+
+.bg-image h2{
+    width: 100%;
+    position: absolute;
+    margin: 0px auto;
+    top: 50%;
+    text-align: center;
+    color: #fff;
+    font-size: 70px;
+    font-family: 'Playball', cursive;
+}
+
+.wrapper{
+  min-height: 100vh;
+}
+
+.menu h3{
+  font-family: 'Oswald', sans-serif;
+  color:#82833c;
+}
+
+.menu h5{
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+#footer{
+  background-color: #222222;
+  padding-top: 14px;
+  padding-bottom: 6px;
+  font-family: 'Oswald', sans-serif;
+}
+
+/*Bootstrap caption position*/
+
+.carousel-caption{
+  font-family: 'Playball', cursive;
+}
+.carousel-caption a,.carousel-caption a:hover{
+  color: #fff;
+}
+.caption-left{
+  text-align: left;
+}
+
+.caption-right{
+  text-align: right;
+}
+
+
+.login{
+  margin-top: 11%;
+}
