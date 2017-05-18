@@ -1,3 +1,14 @@
+# Restaurant
+To run the project
+1) Update the composer, Command -- "composer update"
+2) Generate a key, Command -- "php artisan key:generate"
+3) Make .env from .env-example, and update database details
+4) Make Migration, Command -- "php artisan migrate"
+5) Run the project, Command -- "php artisan serve"
+
+
+
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
